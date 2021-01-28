@@ -1,0 +1,19 @@
+{
+    "name": "yannlarosa/prometheus",
+    "authors": [
+        {
+            "name": "Yann La Rosa",
+            "email": "yannlarosa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Prometheus\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
